@@ -10,13 +10,18 @@ OPERATIONAL STATUS SUMMARY,
 Antenna A Priori Status Count,dish_maintenance: 3 RF_maintenance: 32 RF_ok: 11 digital_maintenance: 3 digital_ok: 95 not_connected: 3
 Commanded Signal Source,
 Antennas in Commanded State,0 / 147 (0.0%)
+Cross-Polarized Antennas,
 Total Number of Nodes,15
+Nodes Registering 0s,N18
+Nodes Not Correlating,"N02, N10, N12"
   ,
 NIGHTLY ANALYSIS SUMMARY,
-Ant Metrics Done?,N
+Ant Metrics Done?,Y
+Ant Metrics Flagged Antennas,76 / 147 (51.7%)
 Auto Metrics Done?,Y
 Auto Metrics Flagged Antennas,98 / 147 (66.7%)
-Redcal Done?,N
-Never Flagged Antennas,49 / 147 (33.3%)
-A Priori Good Antennas Flagged,"48 / 95 total a priori good antennas: 5, 9, 15, 19, 21, 31, 51, 53, 54, 55, 68, 73, 81, 83, 84, 86, 88, 91, 93, 98, 101, 103, 105, 106, 107, 108, 117, 118, 121, 122, 123, 140, 141, 142, 144, 160, 161, 165, 167, 169, 170, 176, 177, 178, 181, 185, 189, 190"
-A Priori Bad Antennas Not Flagged,"2 / 52 total a priori bad antennas: 90, 135"
+Redcal Done?,Y
+Redcal Flagged Antennas,9 / 147 (6.1%)
+Never Flagged Antennas,22 / 147 (15.0%)
+A Priori Good Antennas Flagged,"74 / 95 total a priori good antennas: 5, 7, 9, 10, 15, 19, 20, 21, 31, 40, 41, 42, 51, 53, 54, 55, 56, 68, 69, 71, 72, 73, 81, 83, 84, 85, 86, 88, 91, 93, 94, 98, 101, 103, 105, 106, 107, 108, 109, 111, 112, 117, 118, 121, 122, 123, 127, 128, 129, 130, 140, 141, 142, 143, 144, 156, 157, 158, 160, 161, 165, 167, 169, 170, 176, 177, 178, 179, 181, 185, 187, 189, 190, 191"
+A Priori Bad Antennas Not Flagged,1 / 52 total a priori bad antennas: 90
