@@ -9,3 +9,4 @@
 * [data_inspect_all_ants_2459821.ipynb (2022-8-29)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459821.ipynb)
 * [data_inspect_all_ants_2459822.ipynb (2022-8-30)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459822.ipynb)
 * [data_inspect_all_ants_2459823.ipynb (2022-8-31)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459823.ipynb)
+* [data_inspect_all_ants_2459824.ipynb (2022-9-1)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459824.ipynb)
