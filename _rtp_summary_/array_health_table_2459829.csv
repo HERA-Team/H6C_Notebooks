@@ -4,22 +4,24 @@ Date,9-6-2022
 LST Range,18.556 -- 4.577 hours
 X-Engine Status,Y Y Y Y Y Y Y Y 
 Number of Files,1862
-Total Number of Antennas,126
+Total Number of Antennas,147
  ,
 OPERATIONAL STATUS SUMMARY,
-Antenna A Priori Status Count,dish_maintenance: 3 RF_maintenance: 27 RF_ok: 3 digital_maintenance: 3 digital_ok: 87 not_connected: 3
+Antenna A Priori Status Count,dish_maintenance: 3 RF_maintenance: 32 RF_ok: 11 digital_maintenance: 3 digital_ok: 95 not_connected: 3
 Commanded Signal Source,
-Antennas in Commanded State,0 / 126 (0.0%)
+Antennas in Commanded State,0 / 147 (0.0%)
 Cross-Polarized Antennas,
-Total Number of Nodes,13
-Nodes Registering 0s,
+Total Number of Nodes,15
+Nodes Registering 0s,"N09, N18"
 Nodes Not Correlating,"N02, N04"
   ,
 NIGHTLY ANALYSIS SUMMARY,
 Ant Metrics Done?,Y
-Ant Metrics Flagged Antennas,53 / 126 (42.1%)
-Auto Metrics Done?,N
-Redcal Done?,N
-Never Flagged Antennas,73 / 126 (57.9%)
-A Priori Good Antennas Flagged,"31 / 87 total a priori good antennas: 7, 9, 10, 19, 20, 21, 31, 40, 41, 42, 54, 55, 56, 69, 71, 72, 73, 93, 94, 111, 112, 118, 129, 130, 140, 142, 158, 160, 167, 181, 190"
-A Priori Bad Antennas Not Flagged,"17 / 39 total a priori bad antennas: 4, 36, 50, 52, 82, 87, 104, 119, 135, 136, 137, 138, 166, 182, 207, 223, 224"
+Ant Metrics Flagged Antennas,74 / 147 (50.3%)
+Auto Metrics Done?,Y
+Auto Metrics Flagged Antennas,121 / 147 (82.3%)
+Redcal Done?,Y
+Redcal Flagged Antennas,9 / 147 (6.1%)
+Never Flagged Antennas,8 / 147 (5.4%)
+A Priori Good Antennas Flagged,"89 / 95 total a priori good antennas: 3, 5, 7, 9, 10, 15, 16, 17, 19, 20, 21, 29, 30, 31, 37, 38, 40, 41, 42, 45, 46, 51, 53, 54, 55, 56, 65, 66, 67, 68, 69, 71, 72, 73, 81, 83, 84, 85, 86, 88, 91, 93, 94, 98, 101, 103, 105, 106, 107, 108, 109, 111, 112, 117, 118, 121, 122, 123, 127, 128, 129, 130, 140, 141, 142, 143, 144, 156, 157, 158, 160, 161, 162, 165, 167, 169, 170, 176, 177, 178, 179, 181, 183, 185, 186, 187, 189, 190, 191"
+A Priori Bad Antennas Not Flagged,"2 / 52 total a priori bad antennas: 82, 135"
