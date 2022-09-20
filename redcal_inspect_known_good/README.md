@@ -16,3 +16,4 @@
 * [redcal_inspect_known_good_2459830.ipynb (2022-9-7)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459830.ipynb)
 * [redcal_inspect_known_good_2459832.ipynb (2022-9-9)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459832.ipynb)
 * [redcal_inspect_known_good_2459838.ipynb (2022-9-15)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459838.ipynb)
+* [redcal_inspect_known_good_2459842.ipynb (2022-9-19)](https://nbviewer.jupyter.org/github/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459842.ipynb)
