@@ -4,22 +4,23 @@ Date,9-21-2022
 LST Range,19.538 -- 21.538 hours
 X-Engine Status,Y Y Y Y Y Y Y Y 
 Number of Files,372
-Total Number of Antennas,125
+Total Number of Antennas,158
  ,
 OPERATIONAL STATUS SUMMARY,
-Antenna A Priori Status Count,dish_maintenance: 3 RF_maintenance: 23 digital_maintenance: 8 digital_ok: 76 not_connected: 15
+Antenna A Priori Status Count,dish_maintenance: 3 dish_ok: 1 RF_maintenance: 34 digital_maintenance: 8 digital_ok: 97 not_connected: 15
 Commanded Signal Source,
-Antennas in Commanded State,0 / 125 (0.0%)
+Antennas in Commanded State,0 / 158 (0.0%)
 Cross-Polarized Antennas,
-Total Number of Nodes,12
-Nodes Registering 0s,
+Total Number of Nodes,14
+Nodes Registering 0s,"N08, N09"
 Nodes Not Correlating,"N01, N03, N05, N07, N10, N12"
   ,
 NIGHTLY ANALYSIS SUMMARY,
 Ant Metrics Done?,Y
-Ant Metrics Flagged Antennas,113 / 125 (90.4%)
-Auto Metrics Done?,N
+Ant Metrics Flagged Antennas,146 / 158 (92.4%)
+Auto Metrics Done?,Y
+Auto Metrics Flagged Antennas,123 / 158 (77.8%)
 Redcal Done?,N
-Never Flagged Antennas,12 / 125 (9.6%)
-A Priori Good Antennas Flagged,"73 / 76 total a priori good antennas: 3, 5, 7, 9, 10, 15, 16, 17, 19, 20, 21, 29, 30, 31, 37, 38, 41, 42, 45, 46, 51, 53, 54, 55, 56, 65, 66, 67, 68, 69, 71, 73, 81, 83, 93, 94, 109, 111, 112, 127, 128, 129, 130, 140, 141, 142, 144, 147, 156, 157, 158, 160, 161, 162, 163, 164, 165, 167, 169, 170, 176, 177, 178, 179, 181, 183, 184, 185, 186, 187, 189, 190, 191"
-A Priori Bad Antennas Not Flagged,"9 / 49 total a priori bad antennas: 8, 47, 49, 61, 64, 70, 148, 168, 321"
+Never Flagged Antennas,0 / 158 (0.0%)
+A Priori Good Antennas Flagged,"97 / 97 total a priori good antennas: 3, 5, 7, 9, 10, 15, 16, 17, 19, 20, 21, 29, 30, 31, 37, 38, 40, 41, 42, 45, 46, 51, 53, 54, 55, 56, 65, 66, 67, 68, 69, 71, 72, 73, 81, 83, 84, 85, 86, 88, 91, 93, 94, 98, 99, 100, 101, 103, 105, 106, 107, 108, 109, 111, 112, 116, 117, 118, 121, 122, 123, 124, 127, 128, 129, 130, 140, 141, 142, 143, 144, 147, 156, 157, 158, 160, 161, 162, 163, 164, 165, 167, 169, 170, 176, 177, 178, 179, 181, 183, 184, 185, 186, 187, 189, 190, 191"
+A Priori Bad Antennas Not Flagged,0 / 61 total a priori bad antennas: 
