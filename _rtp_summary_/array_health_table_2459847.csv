@@ -4,12 +4,12 @@ Date,9-24-2022
 LST Range,20.360 -- 6.381 hours
 X-Engine Status,Y Y Y Y Y Y Y Y 
 Number of Files,1862
-Total Number of Antennas,170
+Total Number of Antennas,180
  ,
 OPERATIONAL STATUS SUMMARY,
-Antenna A Priori Status Count,dish_maintenance: 3 dish_ok: 1 RF_maintenance: 33 RF_ok: 8 digital_maintenance: 9 digital_ok: 93 not_connected: 23
+Antenna A Priori Status Count,dish_maintenance: 3 dish_ok: 1 RF_maintenance: 36 RF_ok: 9 digital_maintenance: 11 digital_ok: 97 not_connected: 23
 Commanded Signal Source,
-Antennas in Commanded State,0 / 170 (0.0%)
+Antennas in Commanded State,0 / 180 (0.0%)
 Cross-Polarized Antennas,"104, 116, 124"
 Total Number of Nodes,16
 Nodes Registering 0s,
@@ -17,9 +17,11 @@ Nodes Not Correlating,N05
   ,
 NIGHTLY ANALYSIS SUMMARY,
 Ant Metrics Done?,Y
-Ant Metrics Flagged Antennas,54 / 170 (31.8%)
-Auto Metrics Done?,N
-Redcal Done?,N
-Never Flagged Antennas,116 / 170 (68.2%)
-A Priori Good Antennas Flagged,"20 / 93 total a priori good antennas: 45, 46, 51, 54, 68, 73, 84, 103, 109, 111, 116, 117, 124, 140, 142, 158, 160, 167, 181, 190"
-A Priori Bad Antennas Not Flagged,"43 / 77 total a priori bad antennas: 4, 8, 32, 35, 36, 48, 49, 50, 52, 61, 62, 64, 70, 82, 87, 89, 90, 110, 119, 125, 126, 135, 136, 137, 138, 152, 154, 166, 168, 171, 192, 193, 201, 202, 220, 221, 222, 237, 238, 239, 321, 324, 325"
+Ant Metrics Flagged Antennas,64 / 180 (35.6%)
+Auto Metrics Done?,Y
+Auto Metrics Flagged Antennas,138 / 180 (76.7%)
+Redcal Done?,Y
+Redcal Flagged Antennas,10 / 180 (5.6%)
+Never Flagged Antennas,32 / 180 (17.8%)
+A Priori Good Antennas Flagged,"71 / 97 total a priori good antennas: 3, 5, 7, 9, 19, 30, 37, 38, 40, 41, 45, 46, 51, 53, 54, 55, 56, 66, 67, 68, 69, 71, 72, 73, 83, 84, 85, 86, 88, 91, 93, 94, 98, 99, 101, 103, 105, 106, 107, 108, 109, 111, 116, 117, 121, 122, 123, 124, 128, 140, 141, 142, 144, 147, 156, 158, 160, 161, 163, 165, 167, 169, 170, 177, 179, 181, 183, 187, 189, 190, 191"
+A Priori Bad Antennas Not Flagged,"6 / 83 total a priori bad antennas: 4, 90, 125, 135, 137, 138"
