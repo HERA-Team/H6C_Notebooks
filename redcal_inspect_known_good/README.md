@@ -30,3 +30,4 @@
 * [redcal_inspect_known_good_2459854.html (2022-10-1)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459854.html)
 * [redcal_inspect_known_good_2459855.html (2022-10-2)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459855.html)
 * [redcal_inspect_known_good_2459856.html (2022-10-3)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459856.html)
+* [redcal_inspect_known_good_2459858.html (2022-10-5)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/redcal_inspect_known_good/redcal_inspect_known_good_2459858.html)
