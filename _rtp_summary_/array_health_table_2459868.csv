@@ -1,0 +1,27 @@
+,0
+JD,2459868
+Date,10-15-2022
+LST Range,21.111 -- 7.133 hours
+X-Engine Status,Y Y Y Y Y Y Y Y 
+Number of Files,1862
+Total Number of Antennas,180
+ ,
+OPERATIONAL STATUS SUMMARY,
+Antenna A Priori Status Count,dish_maintenance: 3 dish_ok: 1 RF_maintenance: 35 RF_ok: 9 digital_maintenance: 11 digital_ok: 98 not_connected: 23
+Commanded Signal Source,None
+Antennas in Commanded State (reported),0 / 180 (0.0%)
+Antennas in Commanded State (observed),0 / 180 (0.0%)
+Cross-Polarized Antennas,
+Total Number of Nodes,16
+Nodes Registering 0s,
+Nodes Not Correlating,
+  ,
+NIGHTLY ANALYSIS SUMMARY,
+Ant Metrics Done?,Y
+Ant Metrics Flagged Antennas,58 / 180 (32.2%)
+Auto Metrics Done?,Y
+Auto Metrics Flagged Antennas,154 / 180 (85.6%)
+Redcal Done?,N
+Never Flagged Antennas,26 / 180 (14.4%)
+A Priori Good Antennas Flagged,"76 / 98 total a priori good antennas: 3, 7, 10, 15, 17, 19, 20, 21, 29, 30, 31, 37, 38, 45, 46, 51, 53, 54, 55, 56, 66, 67, 68, 71, 72, 73, 81, 84, 85, 86, 93, 94, 98, 99, 101, 103, 106, 107, 108, 109, 111, 116, 117, 121, 122, 123, 128, 130, 140, 141, 142, 143, 147, 156, 158, 160, 161, 162, 164, 165, 167, 169, 170, 176, 177, 178, 179, 181, 183, 184, 185, 186, 187, 189, 190, 191"
+A Priori Bad Antennas Not Flagged,"4 / 82 total a priori bad antennas: 89, 125, 137, 168"
