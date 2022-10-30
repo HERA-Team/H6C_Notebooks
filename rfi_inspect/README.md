@@ -51,3 +51,4 @@
 * [rfi_inspect_2459876.html (2022-10-23)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459876.html)
 * [rfi_inspect_2459879.html (2022-10-26)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459879.html)
 * [rfi_inspect_2459880.html (2022-10-27)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459880.html)
+* [rfi_inspect_2459881.html (2022-10-28)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459881.html)
