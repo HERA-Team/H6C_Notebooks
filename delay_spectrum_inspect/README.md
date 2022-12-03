@@ -95,3 +95,4 @@
 * [delay_spectrum_inspect_2459913.html (2022-11-29)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459913.html)
 * [delay_spectrum_inspect_2459914.html (2022-11-30)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459914.html)
 * [delay_spectrum_inspect_2459915.html (2022-12-1)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459915.html)
+* [delay_spectrum_inspect_2459916.html (2022-12-2)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459916.html)
