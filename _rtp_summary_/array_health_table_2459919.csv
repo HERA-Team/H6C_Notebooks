@@ -1,9 +1,9 @@
 ,0
 JD,2459919
 Date,12-5-2022
-LST Range,1.285 -- 10.417 hours
-X-Engine Status,N Y Y Y Y N N N 
-Number of Files,1379
+LST Range,3.696 -- 10.417 hours
+X-Engine Status,Y Y Y Y Y Y Y Y 
+Number of Files,1249
 Total Number of Antennas,201
  ,
 OPERATIONAL STATUS SUMMARY,
@@ -18,10 +18,10 @@ Nodes Not Correlating,
   ,
 NIGHTLY ANALYSIS SUMMARY,
 Ant Metrics Done?,Y
-Ant Metrics Flagged Antennas,201 / 201 (100.0%)
+Ant Metrics Flagged Antennas,82 / 201 (40.8%)
 Auto Metrics Done?,Y
-Auto Metrics Flagged Antennas,152 / 201 (75.6%)
+Auto Metrics Flagged Antennas,139 / 201 (69.2%)
 Redcal Done?,N
-Never Flagged Antennas,0 / 201 (0.0%)
-A Priori Good Antennas Flagged,"96 / 96 total a priori good antennas: 3, 5, 7, 9, 10, 15, 16, 17, 19, 20, 21, 29, 30, 31, 37, 38, 40, 41, 42, 44, 45, 51, 53, 54, 55, 56, 65, 66, 67, 68, 69, 70, 71, 72, 81, 83, 85, 86, 88, 91, 93, 94, 98, 99, 100, 101, 103, 105, 106, 107, 109, 111, 112, 116, 118, 121, 122, 123, 124, 127, 128, 129, 130, 136, 140, 141, 143, 144, 146, 147, 148, 149, 150, 157, 158, 160, 161, 162, 163, 164, 165, 167, 168, 169, 170, 181, 182, 183, 184, 185, 186, 187, 189, 190, 191, 202"
-A Priori Bad Antennas Not Flagged,0 / 105 total a priori bad antennas: 
+Never Flagged Antennas,59 / 201 (29.4%)
+A Priori Good Antennas Flagged,"60 / 96 total a priori good antennas: 3, 7, 9, 15, 16, 17, 19, 29, 30, 37, 38, 40, 42, 44, 45, 51, 53, 54, 55, 56, 65, 66, 67, 68, 71, 72, 81, 86, 88, 93, 94, 100, 101, 103, 107, 109, 111, 118, 121, 122, 123, 127, 128, 130, 136, 140, 143, 146, 148, 158, 161, 165, 170, 181, 182, 183, 185, 187, 189, 191"
+A Priori Bad Antennas Not Flagged,"23 / 105 total a priori bad antennas: 22, 35, 48, 61, 62, 64, 79, 82, 89, 95, 114, 115, 120, 125, 137, 139, 179, 207, 221, 238, 324, 325, 333"
