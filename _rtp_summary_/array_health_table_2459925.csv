@@ -7,7 +7,7 @@ Number of Files,1850
 Total Number of Antennas,201
  ,
 OPERATIONAL STATUS SUMMARY,
-Antenna A Priori Status Count,dish_maintenance: 7 dish_ok: 1 RF_maintenance: 54 RF_ok: 19 digital_ok: 96 not_connected: 24
+Antenna A Priori Status Count,dish_maintenance: 9 dish_ok: 1 RF_maintenance: 54 RF_ok: 19 digital_ok: 94 not_connected: 24
 Commanded Signal Source,None
 Antennas in Commanded State (reported),0 / 201 (0.0%)
 Antennas in Commanded State (observed),0 / 201 (0.0%)
@@ -23,5 +23,5 @@ Auto Metrics Done?,Y
 Auto Metrics Flagged Antennas,112 / 201 (55.7%)
 Redcal Done?,N
 Never Flagged Antennas,89 / 201 (44.3%)
-A Priori Good Antennas Flagged,"47 / 96 total a priori good antennas: 3, 9, 10, 15, 16, 19, 21, 29, 30, 42, 51, 54, 55, 56, 68, 72, 81, 86, 93, 94, 99, 100, 101, 103, 106, 109, 111, 121, 122, 123, 128, 136, 143, 146, 147, 148, 149, 158, 161, 164, 165, 170, 182, 183, 185, 187, 189"
-A Priori Bad Antennas Not Flagged,"40 / 105 total a priori bad antennas: 8, 22, 43, 46, 48, 52, 61, 62, 64, 73, 74, 77, 79, 82, 89, 95, 102, 114, 115, 120, 125, 132, 135, 137, 139, 166, 179, 205, 206, 211, 220, 221, 226, 227, 229, 238, 245, 324, 325, 333"
+A Priori Good Antennas Flagged,"45 / 94 total a priori good antennas: 3, 9, 10, 15, 16, 19, 21, 29, 30, 42, 54, 55, 56, 72, 81, 86, 93, 94, 99, 100, 101, 103, 106, 109, 111, 121, 122, 123, 128, 136, 143, 146, 147, 148, 149, 158, 161, 164, 165, 170, 182, 183, 185, 187, 189"
+A Priori Bad Antennas Not Flagged,"40 / 107 total a priori bad antennas: 8, 22, 43, 46, 48, 52, 61, 62, 64, 73, 74, 77, 79, 82, 89, 95, 102, 114, 115, 120, 125, 132, 135, 137, 139, 166, 179, 205, 206, 211, 220, 221, 226, 227, 229, 238, 245, 324, 325, 333"
