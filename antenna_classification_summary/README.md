@@ -57,6 +57,7 @@
 * [antenna_classification_summary_2459927.html (2022-12-13)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/antenna_classification_summary/antenna_classification_summary_2459927.html)
 * [antenna_classification_summary_2459928.html (2022-12-14)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/antenna_classification_summary/antenna_classification_summary_2459928.html)
 * [antenna_classification_summary_2459929.html (2022-12-15)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/antenna_classification_summary/antenna_classification_summary_2459929.html)
+* [antenna_classification_summary_2459930.html (2022-12-16)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/antenna_classification_summary/antenna_classification_summary_2459930.html)
 * [antenna_classification_summary_2459931.html (2022-12-17)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/antenna_classification_summary/antenna_classification_summary_2459931.html)
 * [antenna_classification_summary_2459932.html (2022-12-18)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/antenna_classification_summary/antenna_classification_summary_2459932.html)
 * [antenna_classification_summary_2459933.html (2022-12-19)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/antenna_classification_summary/antenna_classification_summary_2459933.html)
