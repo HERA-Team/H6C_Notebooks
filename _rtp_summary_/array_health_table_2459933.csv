@@ -11,10 +11,14 @@ Antenna A Priori Status Count,dish_maintenance: 9 dish_ok: 1 RF_maintenance: 54 
 Commanded Signal Source,None
 Antennas in Commanded State (reported),0 / 201 (0.0%)
 Antennas in Commanded State (observed),0 / 201 (0.0%)
+Cross-Polarized Antennas,
 Total Number of Nodes,18
+Nodes Registering 0s,"N18, N19, N20"
+Nodes Not Correlating,
   ,
 NIGHTLY ANALYSIS SUMMARY,
-Ant Metrics Done?,N
+Ant Metrics Done?,Y
+Ant Metrics Flagged Antennas,89 / 201 (44.3%)
 Auto Metrics Done?,Y
 Auto Metrics Flagged Antennas,130 / 201 (64.7%)
 Redcal Done?,N
