@@ -119,3 +119,4 @@
 * [data_inspect_all_ants_2459936.html (2022-12-22)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459936.html)
 * [data_inspect_all_ants_2459937.html (2022-12-23)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459937.html)
 * [data_inspect_all_ants_2459938.html (2022-12-24)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459938.html)
+* [data_inspect_all_ants_2459939.html (2022-12-25)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459939.html)
