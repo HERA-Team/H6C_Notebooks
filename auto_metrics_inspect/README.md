@@ -134,3 +134,4 @@
 * [auto_metrics_inspect_2459951.html (2023-1-6)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459951.html)
 * [auto_metrics_inspect_2459952.html (2023-1-7)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459952.html)
 * [auto_metrics_inspect_2459953.html (2023-1-8)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459953.html)
+* [auto_metrics_inspect_2459954.html (2023-1-9)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks/blob/main/auto_metrics_inspect/auto_metrics_inspect_2459954.html)
